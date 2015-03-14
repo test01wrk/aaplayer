@@ -9,7 +9,7 @@ Transferred from https://code.google.com/p/haoutil/
 -----
 
 ## 使用遇到问题?
-请提交在[这里][issues]Issues
+请在[这里][issues]提交Issues
 
 -----
 
