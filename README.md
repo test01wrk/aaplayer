@@ -9,9 +9,10 @@ Transferred from https://code.google.com/p/haoutil/
 -----
 
 ## 使用遇到问题?
-请提交在[这里][[issues]]Issues
+请提交在[这里][issues]Issues
 
 -----
+
 ## 什么原理
 使用[15536900 kafan][kafan15536900]修改（去广告）过的播放器替换原版播放器！
 实际上由于YoukuAntiAds停止开发，本方案现在只提供播放器托管服务！
