@@ -45,14 +45,14 @@ Transferred from https://code.google.com/p/haoutil/
 
 
 [kafan15536900]: https://bitbucket.org/kafan15536900
-[testmod]: https://bitbucket.org/kafan15536900/haoutil/src/b6dd81201782499195b305d338d94a1d95a6038a/player/testmod/?at=master
-[player]: https://bitbucket.org/kafan15536900/haoutil/src/b6dd81201782499195b305d338d94a1d95a6038a/player/?at=master
+[testmod]: https://bitbucket.org/kafan15536900/haoutil/raw/master/player/testmod
+[player]: https://bitbucket.org/kafan15536900/haoutil/raw/master/player
 [AVCAA]: http://bbs.kafan.cn/thread-1762766-1-1.html
 [soWatch!]: http://bbs.kafan.cn/thread-1811358-1-1.html
-[youkuantiads_with_player]: https://bitbucket.org/kafan15536900/haoutil/src/b6dd81201782499195b305d338d94a1d95a6038a/firefox/xpi/youkuantiads_with_player.xpi?at=master
+[youkuantiads_with_player]: https://bitbucket.org/kafan15536900/haoutil/raw/master/firefox/xpi/youkuantiads_with_player.xpi
 [ADfree]: http://bbs.kafan.cn/thread-1777920-1-1.html
 [youkuantiadsModY]: https://github.com/ywzhaiqi/userChromeJS/raw/master/YoukuantiadsModY/youkuantiadsModY.uc.js
-[youkuantiads_user]: https://bitbucket.org/kafan15536900/haoutil/raw/b6dd81201782499195b305d338d94a1d95a6038a/firefox/youkuantiads.user.js
-[youkuantiads_uc]: https://bitbucket.org/kafan15536900/haoutil/raw/b6dd81201782499195b305d338d94a1d95a6038a/firefox/youkuantiads.uc.js
-[youkuantiads]: https://bitbucket.org/kafan15536900/haoutil/src/b6dd81201782499195b305d338d94a1d95a6038a/firefox/xpi/youkuantiads.xpi?at=master
+[youkuantiads_user]: https://bitbucket.org/kafan15536900/haoutil/raw/master/firefox/youkuantiads.user.js
+[youkuantiads_uc]: https://bitbucket.org/kafan15536900/haoutil/raw/master/firefox/youkuantiads.uc.js
+[youkuantiads]: https://bitbucket.org/kafan15536900/haoutil/raw/master/firefox/xpi/youkuantiads.xpi
 [issues]: https://bitbucket.org/kafan15536900/haoutil/issues/new
